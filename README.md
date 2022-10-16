@@ -18,3 +18,5 @@ Make 3 matplotlib or seaborn (or another plotting library) visualizations to dis
 Feature 4
 Utilize a virtual environment and include instructions in your README on how the user should set one up
 
+Feature 5
+Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit.
