@@ -6,7 +6,7 @@ This project will analyze viewing data from Netflix and see how it compares to p
 Statement of Work:  (what work needs to be done) *
 I need to gather the data, add to a Jupyter Notebook, and explore the data. 
 
-Feature 1
+## Feature 1
 Read TWO data files (JSON, CSV, Excel, etc.). 
 
 Feature 2
