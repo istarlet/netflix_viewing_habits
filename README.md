@@ -9,7 +9,7 @@ I need to gather the data, add to a Jupyter Notebook, and explore the data.
 ## Feature 1
 Read TWO data files (JSON, CSV, Excel, etc.). 
 
-Feature 2
+## Feature 2
 Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.  
 
 Feature 3
