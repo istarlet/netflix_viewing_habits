@@ -12,7 +12,7 @@ Read TWO data files (JSON, CSV, Excel, etc.).
 ## Feature 2
 Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.  
 
-Feature 3
+## Feature 3
 Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.
 
 Feature 4
