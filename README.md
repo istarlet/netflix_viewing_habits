@@ -15,7 +15,7 @@ Clean your data and perform a pandas merge with your two data sets, then calcula
 ## Feature 3
 Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.
 
-Feature 4
+## Feature 4
 Utilize a virtual environment and include instructions in your README on how the user should set one up
 
 Feature 5
