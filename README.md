@@ -1,4 +1,7 @@
-# Netflix Viewing Habits
+<h1 align="center"><strong>Streaming Analysis</strong></h1>
+
+# Introduction
+*Insert intro here*
 
 Project objective: (what you expect the project to do) *
 This project will analyze viewing data from Netflix and see how it compares to popular tv and movies. 
@@ -6,7 +9,22 @@ This project will analyze viewing data from Netflix and see how it compares to p
 Statement of Work:  (what work needs to be done) *
 I need to gather the data, add to a Jupyter Notebook, and explore the data. 
 
-# Data
+### Changes to Project Plan
+*I turned in my Project Plan when I only had my Netflix streaming data. Since then, I've been able to obtain my Hulu and Prime Video streaming data.*
+
+*This project will use all three datasets (Hulu, Netflix, Prime Video) instead of only Netflix.*
+
+# How to Run this Project
+
+### Python packages used in this project:
+<ul>
+  <li>datetime</li>
+  <li>matplotlib</li>
+  <li>pandas</li>
+  <li>seaborn</li>
+</ul>
+
+# Datasets Used
 https://www.kaggle.com/datasets/whenamancodes/netflix-prime-video-disney-hulu
 
 https://www.kaggle.com/code/advaypatil/netflix-movies-and-popularity/data
