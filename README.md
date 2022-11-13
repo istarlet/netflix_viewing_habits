@@ -1,4 +1,7 @@
-# Netflix Viewing Habits
+<h1 align="center"><strong>Streaming Analysis</strong></h1>
+
+
+# Introduction
 
 Project objective: (what you expect the project to do) *
 This project will analyze viewing data from Netflix and see how it compares to popular tv and movies. 
