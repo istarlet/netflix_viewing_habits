@@ -5,7 +5,8 @@ I turned in my Project Plan when I only had my Netflix streaming data. Since the
 
 This project will use all three datasets (Hulu, Netflix, Prime Video) instead of only Netflix.
 
-# Alt-H1 Introduction
+Introduction
+=
 
 Project objective: (what you expect the project to do) *
 This project will analyze viewing data from Netflix and see how it compares to popular tv and movies. 
