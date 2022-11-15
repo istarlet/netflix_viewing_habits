@@ -19,6 +19,8 @@ Clone this repo https://github.com/istarlet/streaming_analysis.git
 
 `pip install -r requirements.txt`
 
+Then run this file https://github.com/istarlet/streaming_analysis/blob/main/streaming_data.ipynb
+
 ### Python packages used in this project:
 <ul>
   <li>datetime</li>
