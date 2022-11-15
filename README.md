@@ -16,6 +16,8 @@ I need to gather the data, add to a Jupyter Notebook, and explore the data.
 
 # How to Run this Project
 
+`pip install -r requirements.txt`
+
 ### Python packages used in this project:
 <ul>
   <li>datetime</li>
