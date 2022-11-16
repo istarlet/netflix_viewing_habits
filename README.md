@@ -14,6 +14,17 @@ I need to gather the data, add to a Jupyter Notebook, and explore the data.
 
 *This project will use all three datasets (Hulu, Netflix, Prime Video) instead of only Netflix.*
 
+# Datasets Used
+<ul>
+  <li>Hulu (personal viewing history)</li>
+  <li>Netflix (personal viewing history)</li>
+  <li>Prime Video (personal viewing history)</li>
+  <li>Kaggle - Netflix Movies and Popularity</li>
+</ul>
+  
+
+https://www.kaggle.com/code/advaypatil/netflix-movies-and-popularity/data
+
 # How to Run this Project
 `Using a Virtual Environment`
   1. Clone this repo https://github.com/istarlet/streaming_analysis.git
