@@ -19,7 +19,8 @@ I need to gather the data, add to a Jupyter Notebook, and explore the data.
   1. Clone this repo https://github.com/istarlet/streaming_analysis.git
   2. Type in command
     `pip install -r requirements.txt`
-  3.Then run this file https://github.com/istarlet/streaming_analysis/blob/main/streaming_data.ipynb
+  3. 
+  4. Then run this file https://github.com/istarlet/streaming_analysis/blob/main/streaming_data.ipynb
  
 ### To deactivate the Virtual Environment
   Type in command
@@ -34,8 +35,6 @@ I need to gather the data, add to a Jupyter Notebook, and explore the data.
 </ul>
 
 # Datasets Used
-https://www.kaggle.com/datasets/whenamancodes/netflix-prime-video-disney-hulu
-
 https://www.kaggle.com/code/advaypatil/netflix-movies-and-popularity/data
 
 ## Feature 1
