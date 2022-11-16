@@ -20,7 +20,6 @@ I need to gather the data, add to a Jupyter Notebook, and explore the data.
   <li>Hulu</li>
   <li>Netflix</li>
   <li>Prime Video</li>
-  <li>Kaggle - Netflix, Movies, and Popularity</li>
 </ul>
 
 ### Additional dataset
