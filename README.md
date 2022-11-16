@@ -17,7 +17,8 @@ I need to gather the data, add to a Jupyter Notebook, and explore the data.
 # How to Run this Project
 <ol>
   <li>Clone this repo https://github.com/istarlet/streaming_analysis.git</li>
-  <li>Type in command `pip install -r requirements.txt` </li>
+  <li>Type in command</li
+    `pip install -r requirements.txt`
   <li>Then run this file https://github.com/istarlet/streaming_analysis/blob/main/streaming_data.ipynb</li>
  </ol>
   
