@@ -19,10 +19,10 @@ I need to gather the data, add to a Jupyter Notebook, and explore the data.
   <li>Hulu (personal viewing history)</li>
   <li>Netflix (personal viewing history)</li>
   <li>Prime Video (personal viewing history)</li>
-  <li> [Kaggle - Netflix Movies and Popularity]("https://www.kaggle.com/code/advaypatil/netflix-movies-and-popularity/data") </li>
+  <li>Kaggle - Netflix Movies and Popularity</li>
 </ul>
 
-[I'm an inline-style link](https://www.google.com)
+[Download datasets here](https://drive.google.com/drive/folders/1kDuL7BR_Rc3V7Fl5HHSQg8jn4fChZEP3?usp=share_link))
 
 https://www.kaggle.com/code/advaypatil/netflix-movies-and-popularity/data
 
