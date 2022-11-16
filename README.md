@@ -19,6 +19,7 @@ I need to gather the data, add to a Jupyter Notebook, and explore the data.
   <li>Hulu (personal viewing history)</li>
   <li>Netflix (personal viewing history)</li>
   <li>Prime Video (personal viewing history)</li>
+  <li>[I'm an inline-style link](https://www.google.com)</li>
   <li>[Kaggle - Netflix Movies and Popularity]("https://www.kaggle.com/code/advaypatil/netflix-movies-and-popularity/data")</li>
 </ul>
 
