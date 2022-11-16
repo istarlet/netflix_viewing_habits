@@ -15,11 +15,15 @@ I need to gather the data, add to a Jupyter Notebook, and explore the data.
 *This project will use all three datasets (Hulu, Netflix, Prime Video) instead of only Netflix.*
 
 # How to Run this Project
-Clone this repo https://github.com/istarlet/streaming_analysis.git
-
-`pip install -r requirements.txt`
-
-Then run this file https://github.com/istarlet/streaming_analysis/blob/main/streaming_data.ipynb
+<ol>
+  <li>Clone this repo https://github.com/istarlet/streaming_analysis.git</li>
+  <li>Type in command</li
+    `pip install -r requirements.txt`
+  <li>Then run this file https://github.com/istarlet/streaming_analysis/blob/main/streaming_data.ipynb</li>
+ </ol>
+  
+  To deactivate the virtual environment type in terminal
+  `deactivate`
 
 ### Python packages used in this project:
 <ul>
