@@ -19,9 +19,8 @@ I need to gather the data, add to a Jupyter Notebook, and explore the data.
   <li>Hulu (personal viewing history)</li>
   <li>Netflix (personal viewing history)</li>
   <li>Prime Video (personal viewing history)</li>
-  <li>Kaggle - Netflix Movies and Popularity</li>
+  <li>[Kaggle - Netflix Movies and Popularity](https://www.kaggle.com/code/advaypatil/netflix-movies-and-popularity/data)</li>
 </ul>
-  
 
 https://www.kaggle.com/code/advaypatil/netflix-movies-and-popularity/data
 
@@ -44,9 +43,6 @@ https://www.kaggle.com/code/advaypatil/netflix-movies-and-popularity/data
   <li>pandas</li>
   <li>seaborn</li>
 </ul>
-
-# Datasets Used
-https://www.kaggle.com/code/advaypatil/netflix-movies-and-popularity/data
 
 ## Feature 1
 Read TWO data files (JSON, CSV, Excel, etc.). 
