@@ -29,7 +29,9 @@ https://www.kaggle.com/code/advaypatil/netflix-movies-and-popularity/data
 # How to Run this Project
 `Using a Virtual Environment`
   1. Clone this repo https://github.com/istarlet/streaming_analysis.git
-  2. Type in command
+  2. Download the datasets
+  3. Create a new folder in the cloned repo called `Datasets` and add 
+  4. Type in command
     `pip install -r requirements.txt`
   3. 
   4. Then run this file https://github.com/istarlet/streaming_analysis/blob/main/streaming_data.ipynb
