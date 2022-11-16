@@ -15,16 +15,16 @@ I need to gather the data, add to a Jupyter Notebook, and explore the data.
 *This project will use all three datasets (Hulu, Netflix, Prime Video) instead of only Netflix.*
 
 # Datasets Used
-<ul>Personal Streaming Viewing History
+### Personal Streaming Viewing History
+<ul>
   <li>Hulu</li>
   <li>Netflix</li>
   <li>Prime Video</li>
   <li>Kaggle - Netflix, Movies, and Popularity</li>
 </ul>
 
-[](https://drive.google.com/drive/folders/1kDuL7BR_Rc3V7Fl5HHSQg8jn4fChZEP3?usp=share_link)
-
-https://www.kaggle.com/code/advaypatil/netflix-movies-and-popularity/data
+### Additional dataset
+[Kaggle - Netflix, Movies, and Popularity](https://www.kaggle.com/code/advaypatil/netflix-movies-and-popularity/data)
 
 # How to Run this Project
 `Using a Virtual Environment`
