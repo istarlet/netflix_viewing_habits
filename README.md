@@ -23,6 +23,8 @@ I need to gather the data, add to a Jupyter Notebook, and explore the data.
   <li>[Kaggle - Netflix Movies and Popularity]("https://www.kaggle.com/code/advaypatil/netflix-movies-and-popularity/data")</li>
 </ul>
 
+[I'm an inline-style link](https://www.google.com)
+
 https://www.kaggle.com/code/advaypatil/netflix-movies-and-popularity/data
 
 # How to Run this Project
