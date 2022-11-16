@@ -15,14 +15,14 @@ I need to gather the data, add to a Jupyter Notebook, and explore the data.
 *This project will use all three datasets (Hulu, Netflix, Prime Video) instead of only Netflix.*
 
 # Datasets Used
-<ul>
-  <li>Hulu (personal viewing history)</li>
-  <li>Netflix (personal viewing history)</li>
-  <li>Prime Video (personal viewing history)</li>
-  <li>Kaggle - Netflix Movies and Popularity</li>
+<ul>Personal Streaming Viewing History
+  <li>Hulu</li>
+  <li>Netflix</li>
+  <li>Prime Video</li>
+  <li>Kaggle - Netflix, Movies, and Popularity</li>
 </ul>
 
-[Download datasets here](https://drive.google.com/drive/folders/1kDuL7BR_Rc3V7Fl5HHSQg8jn4fChZEP3?usp=share_link)
+[](https://drive.google.com/drive/folders/1kDuL7BR_Rc3V7Fl5HHSQg8jn4fChZEP3?usp=share_link)
 
 https://www.kaggle.com/code/advaypatil/netflix-movies-and-popularity/data
 
@@ -36,7 +36,7 @@ https://www.kaggle.com/code/advaypatil/netflix-movies-and-popularity/data
   5. Then run this file https://github.com/istarlet/streaming_analysis/blob/main/streaming_data.ipynb
  
 ### To deactivate the Virtual Environment
-  Type in command
+  Type command
   `deactivate`
 
 ### Python packages used in this project:
