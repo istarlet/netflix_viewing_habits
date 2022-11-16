@@ -22,7 +22,7 @@ I need to gather the data, add to a Jupyter Notebook, and explore the data.
   <li>Kaggle - Netflix Movies and Popularity</li>
 </ul>
 
-[Download datasets here](https://drive.google.com/drive/folders/1kDuL7BR_Rc3V7Fl5HHSQg8jn4fChZEP3?usp=share_link))
+[Download datasets here](https://drive.google.com/drive/folders/1kDuL7BR_Rc3V7Fl5HHSQg8jn4fChZEP3?usp=share_link)
 
 https://www.kaggle.com/code/advaypatil/netflix-movies-and-popularity/data
 
