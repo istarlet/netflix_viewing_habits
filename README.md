@@ -97,3 +97,5 @@ I created a virtual environment with instructions in the [How to Run this Projec
 
 ## Feature 5
 `Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md.`
+
+In my Jupyter Notebooks, I annotated my code with markdown cells and wrote clear code comments. I have included a README.md.  
