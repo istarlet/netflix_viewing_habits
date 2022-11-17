@@ -62,8 +62,14 @@ I read in four CSV files.
   <li>titles.csv</li>
 </ul>
 
-## Feature 2
-Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.  
+## 2. Manipulate and Clean Your Data
+### Feature 2
+`Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.`
+I cleaned the each dataset in their own Jupyter Notebook.
+   > [Hulu](hulu.ipynb)
+   > [Imdb](imdb.ipynb)
+   > [Netflix](netflix.ipynb)
+   > [Prime Video](prime_video.ipynb)
 
 ## Feature 3
 Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.
