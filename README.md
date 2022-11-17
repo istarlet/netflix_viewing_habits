@@ -33,10 +33,10 @@ I turned in my Project Plan when I only had my Netflix dataset. Since then, I wa
 
    *(**Note:** If you downloaded the dataset as a .zip file, make sure to add the individual datasets to the new "Datasets" folder and not the folder they were zipped in.)*
   4. CD into cloned project folder
-  5. Install virtual venv if you don't already have it installed `pip install virtualenv`
-  6. Activate the virtual environment `.\venv\Scripts\activate`
+  5. 5. Install virtual venv if you don't already have it installed `pip install virtualenv`
+  6. 6. Activate the virtual environment `.\venv\Scripts\activate`
   7. Installthe requirements.txt file `pip install -r requirements.txt`
-  6. Then run this file https://github.com/istarlet/streaming_analysis/blob/main/streaming_data.ipynb
+  8. Then run this file https://github.com/istarlet/streaming_analysis/blob/main/streaming_data.ipynb
  
 ### To deactivate the Virtual Environment
   Type`deactivate`
@@ -72,7 +72,9 @@ I cleaned the each dataset in their own Jupyter Notebook.
 
 I then concatonated the Hulu, Netflix, and Prime Video datasets together. 
 
-With my new combined streaming dataset, I merged it with the Imdb dataset. 
+With my new combined streaming dataset, I merged it with the Imdb dataset.
+
+I added new columns to the merged dataset by extracting the day, month, and hour from the "Date Watched" column.
 
 ## Feature 3
 `Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.`
