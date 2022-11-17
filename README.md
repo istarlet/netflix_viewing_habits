@@ -31,8 +31,8 @@ I turned in my Project Plan when I only had my Netflix dataset. Since then, I wa
   2. Download the datasets [here](https://drive.google.com/drive/folders/1kDuL7BR_Rc3V7Fl5HHSQg8jn4fChZEP3?usp=share_link)
   3. Create a new folder in the cloned repo called `Datasets` and add downloaded datasets* 
   4. CD into cloned project folder
-  5. 5. Install virtual venv if you don't already have it installed `pip install virtualenv`
-  6. 6. Activate the virtual environment `.\venv\Scripts\activate`
+  5. Install virtual venv if you don't already have it installed `pip install virtualenv`
+  6. Activate the virtual environment `.\venv\Scripts\activate`
   7. Installthe requirements.txt file `pip install -r requirements.txt`
   8. Then run this file https://github.com/istarlet/streaming_analysis/blob/main/streaming_data.ipynb
 
