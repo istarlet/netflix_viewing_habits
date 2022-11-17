@@ -50,8 +50,7 @@ I turned in my Project Plan when I only had my Netflix dataset. Since then, I wa
 </ul>
 
 # Project Requirements
-## 1. Read Data In 
-### Feature 1
+## Feature 1 
 `Read TWO data files (JSON, CSV, Excel, etc.).`
 
 I read in four CSV files. 
@@ -62,8 +61,7 @@ I read in four CSV files.
   <li>titles.csv</li>
 </ul>
 
-## 2. Manipulate and Clean Your Data
-### Feature 2
+## Feature 2
 `Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.`
 
 I cleaned the each dataset in their own Jupyter Notebook.
@@ -77,7 +75,10 @@ I then concatonated the Hulu, Netflix, and Prime Video datasets together.
 With my new combined streaming dataset, I merged it with the Imdb dataset. 
 
 ## Feature 3
-Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.
+`Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.`
+
+![image](https://user-images.githubusercontent.com/14065849/202563303-ce0980b6-cbd9-4e92-a5c5-eb01cdf3e136.png)
+
 
 ## Feature 4
 Utilize a virtual environment and include instructions in your README on how the user should set one up
