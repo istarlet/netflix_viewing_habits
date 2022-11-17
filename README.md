@@ -25,7 +25,7 @@ I turned in my Project Plan when I only had my Netflix dataset. I
 
 # How to Run this Project
 `Using a Virtual Environment`
-  1. Clone this repo https://github.com/istarlet/streaming_analysis.git
+  1. Clone this repo `git clone https://github.com/istarlet/streaming_analysis.git`
   2. Download the datasets [here](https://drive.google.com/drive/folders/1kDuL7BR_Rc3V7Fl5HHSQg8jn4fChZEP3?usp=share_link)
   3. Create a new folder in the cloned repo called `Datasets` and add downloaded datasets 
 
