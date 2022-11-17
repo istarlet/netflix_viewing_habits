@@ -92,6 +92,7 @@ With my new combined streaming dataset, I merged it with the Imdb dataset.
 
 ## Feature 4
 `Utilize a virtual environment and include instructions in your README on how the user should set one up`
+
 I created a virtual environment with instructions in the [How to Run this Project](https://github.com/istarlet/streaming_analysis/blob/main/README.md#how-to-run-this-project) section.
 
 ## Feature 5
