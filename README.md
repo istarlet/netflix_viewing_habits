@@ -50,8 +50,17 @@ I turned in my Project Plan when I only had my Netflix dataset. Since then, I wa
 </ul>
 
 # Project Requirements
-## Feature 1
+## 1. Read Data In 
+### Feature 1
 `Read TWO data files (JSON, CSV, Excel, etc.).`
+
+I read in four CSV files. 
+<ul>
+  <li>AshleyViewingActivity.csv</li>
+  <li>DigitalPrimeVideoViewingHistory.csv</li>
+  <li>HuluViewingHistoryUpdated.csv</li>
+  <li>titles.csv</li>
+</ul>
 
 ## Feature 2
 Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.  
