@@ -81,6 +81,9 @@ With my new combined streaming dataset, I merged it with the Imdb dataset.
 
 ![image](https://user-images.githubusercontent.com/14065849/202563724-0d5363c0-f27d-4197-be3a-1206d24f0537.png)
 
+![image](https://user-images.githubusercontent.com/14065849/202563856-1bc221d6-385f-437c-a5aa-6f9ec231a6ae.png)
+
+
 
 
 ## Feature 4
