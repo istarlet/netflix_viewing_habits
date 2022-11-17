@@ -10,7 +10,9 @@ Statement of Work:  (what work needs to be done) *
 I need to gather the data, add to a Jupyter Notebook, and explore the data. 
 
 ### Changes to the Project Plan
-I turned in my Project Plan when I only had my Netflix dataset. I 
+I turned in my Project Plan when I only had my Netflix dataset. Since then, I was able to obtain my Hulu and Prime Video datasets.
+
+### Project Challenges
 
 # Datasets Used
 ### Personal Streaming Viewing History
@@ -29,7 +31,7 @@ I turned in my Project Plan when I only had my Netflix dataset. I
   2. Download the datasets [here](https://drive.google.com/drive/folders/1kDuL7BR_Rc3V7Fl5HHSQg8jn4fChZEP3?usp=share_link)
   3. Create a new folder in the cloned repo called `Datasets` and add downloaded datasets 
 
-  *(**Note:** If you downloaded the dataset as a .zip file, make sure to add the individual datasets to the new "Datasets" folder and not the folder they were zipped in.)*
+   *(**Note:** If you downloaded the dataset as a .zip file, make sure to add the individual datasets to the new "Datasets" folder and not the folder they were zipped in.)*
 
   4. Type command
       `pip install -r requirements.txt`
@@ -47,8 +49,9 @@ I turned in my Project Plan when I only had my Netflix dataset. I
   <li>seaborn</li>
 </ul>
 
+# Project Requirements
 ## Feature 1
-Read TWO data files (JSON, CSV, Excel, etc.). 
+`Read TWO data files (JSON, CSV, Excel, etc.).`
 
 ## Feature 2
 Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.  
