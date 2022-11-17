@@ -34,8 +34,8 @@ I turned in my Project Plan when I only had my Netflix dataset. Since then, I wa
   5. Install virtual venv if you don't already have it installed `pip install virtualenv`
   6. Activate the virtual environment `.\venv\Scripts\activate`
   7. Install the requirements.txt file `pip install -r requirements.txt`
-  8. Then run these Juptyer Notebook files: [Hulu](hulu.ipynb) [Imdb](imdb.ipynb) [Netflix](netflix.ipynb)[Prime Video](prime_video.ipynb) BEFORE running 
-       [Streaming Data](https://github.com/istarlet/streaming_analysis/blob/main/streaming_data.ipynb)
+  8. Then run these Juptyer Notebook files: [Hulu](hulu.ipynb), [Imdb](imdb.ipynb), [Netflix](netflix.ipynb), [Prime Video](prime_video.ipynb) BEFORE running 
+       [Streaming Data](streaming_data.ipynb)
 
 *(**Note:** If you downloaded the dataset as a .zip file, make sure to add the individual datasets to the new `datasets` folder and not the folder they were zipped in.)*
  
