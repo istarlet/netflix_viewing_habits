@@ -79,6 +79,9 @@ With my new combined streaming dataset, I merged it with the Imdb dataset.
 
 ![image](https://user-images.githubusercontent.com/14065849/202563303-ce0980b6-cbd9-4e92-a5c5-eb01cdf3e136.png)
 
+![image](https://user-images.githubusercontent.com/14065849/202563724-0d5363c0-f27d-4197-be3a-1206d24f0537.png)
+
+
 
 ## Feature 4
 Utilize a virtual environment and include instructions in your README on how the user should set one up
