@@ -77,6 +77,8 @@ With my new combined streaming dataset, I merged it with the Imdb dataset.
 ## Feature 3
 `Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.`
 
+![image](https://user-images.githubusercontent.com/14065849/202564382-56d85a9b-482a-4c53-8a17-c2dc9871f003.png)
+
 ![image](https://user-images.githubusercontent.com/14065849/202564214-0212921c-00f8-4c2a-97ef-8e7ad750e6e6.png)
 
 ![image](https://user-images.githubusercontent.com/14065849/202563303-ce0980b6-cbd9-4e92-a5c5-eb01cdf3e136.png)
