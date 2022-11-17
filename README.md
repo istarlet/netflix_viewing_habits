@@ -91,7 +91,8 @@ With my new combined streaming dataset, I merged it with the Imdb dataset.
 ![image](https://user-images.githubusercontent.com/14065849/202564792-ed918b3d-d55f-4879-8557-8e06915ae14e.png)
 
 ## Feature 4
-Utilize a virtual environment and include instructions in your README on how the user should set one up
+`Utilize a virtual environment and include instructions in your README on how the user should set one up`
+I created a virtual environment with instructions in the 
 
 ## Feature 5
 Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit.
