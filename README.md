@@ -96,4 +96,4 @@ With my new combined streaming dataset, I merged it with the Imdb dataset.
 I created a virtual environment with instructions in the [How to Run this Project](https://github.com/istarlet/streaming_analysis/blob/main/README.md#how-to-run-this-project) section.
 
 ## Feature 5
-Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit.
+`Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md.`
