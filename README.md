@@ -35,11 +35,13 @@ I turned in my Project Plan when I only had my Netflix dataset. Since then, I wa
 
 ### Activating a Virtual Environment
 **On Mac/Linux**
+
 Open the Terminal and create a virtual environment with the command `python3 -m venv virtual-env`
 
 Activate the virtual environment with the command `source virtual-env/bin/activate`
 
 **On Windows**
+
 Open the Command Prompt and create a virtual environment with the command `python -m venv virtual-env`
 
 Activate the virtual environment with the command `virtual-env\Scripts\activate.bat`
