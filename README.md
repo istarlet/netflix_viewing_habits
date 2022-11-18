@@ -97,9 +97,9 @@ I added new columns to the merged dataset by extracting the day, month, and hour
 
 ![image](https://user-images.githubusercontent.com/14065849/202619291-4d34a9bb-d6f8-490a-aec2-14ca83cc3ea2.png)
 
-![image](https://user-images.githubusercontent.com/14065849/202564214-0212921c-00f8-4c2a-97ef-8e7ad750e6e6.png)
+![image](https://user-images.githubusercontent.com/14065849/202738193-be0a83ec-76b2-40b5-9939-bbbf02823c0b.png)
 
-![image](https://user-images.githubusercontent.com/14065849/202563303-ce0980b6-cbd9-4e92-a5c5-eb01cdf3e136.png)
+![image](https://user-images.githubusercontent.com/14065849/202564214-0212921c-00f8-4c2a-97ef-8e7ad750e6e6.png)
 
 ![image](https://user-images.githubusercontent.com/14065849/202563724-0d5363c0-f27d-4197-be3a-1206d24f0537.png)
 
