@@ -9,7 +9,11 @@ I turned in my Project Plan when I only had my Netflix data. Since then, I've ab
 My original idea was to compare my streaming data to the top streaming titles but I wasn't able to find a dataset that worked with my data.
 
 ### Project Challenges
-I realized (too late for this project) that Netflix and Prime Video create a new "watch event" every time a stream is paused and played again. This means that my data shows individual titles with   
+I realized (too late for this project) that Netflix and Prime Video create a new "watch event" every time a stream is paused and played again. This means that my data shows individual titles with artificially high watch counts. I made the decision not to remove the duplicates because doing so would have removed genuine new watch events and I would rather go through the datasets myself to determine which ones to delete.
+
+I removed more data from my streaming viewing history than I would have liked in order to combine them. While Hulu had the best data because it did not count each pause as a new "watch event", the downside was the data came split over multiple PDFs and would have required far more time to clean. I made the decision to stick with the basic data from each streaming service on the basis of time.  
+
+I struggled finding an additional dataset that worked with my combined streaming viewing history data. In the end, I stuck with the one that gave me the largest merged dataset. I know I could have used just the three streaming datasets but I wanted the challenge of merging additional data. 
 
 # Datasets Used
 ### Personal Streaming Viewing History
