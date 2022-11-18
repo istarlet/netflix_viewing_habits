@@ -3,12 +3,6 @@
 # Introduction
 In this notebook, I'll take a look at my streaming viewing history from Hulu, Netflix, and Prime Video accounts. I will analyze this viewing data and see what interesting information I can find. 
 
-Project objective: (what you expect the project to do) *
-This project will analyze viewing data from Netflix and see how it compares to popular tv and movies. 
-
-Statement of Work:  (what work needs to be done) *
-I need to gather the data, add to a Jupyter Notebook, and explore the data. 
-
 ### Changes to the Project Plan
 I turned in my Project Plan when I only had my Netflix dataset. Since then, I was able to obtain my Hulu and Prime Video datasets.
 
