@@ -95,7 +95,7 @@ I added new columns to the merged dataset by extracting the day, month, and hour
 `Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.`
 ![image](https://user-images.githubusercontent.com/14065849/202565871-15b3fb4f-5275-4898-9ea7-8b613501426a.png)
 
-![image](https://user-images.githubusercontent.com/14065849/202618890-847219bb-ce9c-4bce-af86-4f2410fa416a.png)
+![image](https://user-images.githubusercontent.com/14065849/202619291-4d34a9bb-d6f8-490a-aec2-14ca83cc3ea2.png)
 
 ![image](https://user-images.githubusercontent.com/14065849/202564214-0212921c-00f8-4c2a-97ef-8e7ad750e6e6.png)
 
