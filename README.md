@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Streaming Analysis</strong></h1>
 
 # Introduction
-*Insert intro here*
+In this notebook, I'll take a look at my streaming viewing history from Hulu, Netflix, and Prime Video accounts. I will analyze this viewing data and see what interesting information I can find. 
 
 Project objective: (what you expect the project to do) *
 This project will analyze viewing data from Netflix and see how it compares to popular tv and movies. 
