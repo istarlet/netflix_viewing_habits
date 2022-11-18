@@ -33,7 +33,7 @@ I turned in my Project Plan when I only had my Netflix dataset. Since then, I wa
   3. Create a new folder in the cloned repo called `datasets` and add downloaded datasets *<strong>See note</strong>* 
   4. CD into cloned project folder
   5. Install virtual venv if you don't already have it installed `pip install virtualenv`
-  6. Activate the virtual environment (see intructions [here](https://github.com/istarlet/streaming_analysis/blob/main/README.md#activating-a-virtual-environment) 
+  6. Activate the virtual environment (see intructions [here](https://github.com/istarlet/streaming_analysis/blob/main/README.md#activating-a-virtual-environment)) 
   7. Install the requirements.txt file `pip install -r requirements.txt`
   8. Then run these Juptyer Notebook files: [Hulu](hulu.ipynb), [Imdb](imdb.ipynb), [Netflix](netflix.ipynb), [Prime Video](prime_video.ipynb) BEFORE running the main      project notebook [Streaming Data](streaming_data.ipynb)
 
