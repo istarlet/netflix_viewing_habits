@@ -64,7 +64,7 @@ Activate the virtual environment with the command `virtual-env\Scripts\activate.
 </ul>
 
 # Project Requirements
-## Feature 1 
+## Loading data - Feature 1 
 `Read TWO data files (JSON, CSV, Excel, etc.).`
 
 I read in four CSV files. 
@@ -75,7 +75,7 @@ I read in four CSV files.
   <li>titles.csv</li>
 </ul>
 
-## Feature 2
+## Clean and operate on the data while combining them - Feature 2
 `Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.`
 
 I cleaned the each dataset in their own Jupyter Notebook.
@@ -91,7 +91,7 @@ With my new combined streaming dataset, I merged it with the Imdb dataset.
 
 I added new columns to the merged dataset by extracting the day, month, and hour from the "Date Watched" column.
 
-## Feature 3
+## Visualize / Present your data - Feature 3
 `Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.`
 ![image](https://user-images.githubusercontent.com/14065849/202565871-15b3fb4f-5275-4898-9ea7-8b613501426a.png)
 
@@ -107,12 +107,12 @@ I added new columns to the merged dataset by extracting the day, month, and hour
 
 ![image](https://user-images.githubusercontent.com/14065849/202564792-ed918b3d-d55f-4879-8557-8e06915ae14e.png)
 
-## Feature 4
+## Best practices - Feature 4
 `Utilize a virtual environment and include instructions in your README on how the user should set one up`
 
 I created a virtual environment with instructions in the [How to Run this Project](https://github.com/istarlet/streaming_analysis/blob/main/README.md#how-to-run-this-project) section.
 
-## Feature 5
+## Interpretation of your data - Feature 5
 `Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md.`
 
 In my Jupyter Notebooks, I annotated my code with markdown cells and wrote clear code comments. I have included a README.md.  
