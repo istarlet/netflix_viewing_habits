@@ -1,13 +1,15 @@
 <h1 align="center"><strong>Streaming Analysis</strong></h1>
 
 # Introduction
-In this notebook, I'll take a look at my streaming viewing history from Hulu, Netflix, and Prime Video accounts. I will analyze this viewing data and see what interesting information I can find. 
+In this notebook, I'll take a look at my streaming viewing history data from Hulu, Netflix, and Prime Video accounts. I will merge these datasets with an additional dataset that contains more information about the streaming titles like run time, genres, and Imdb score. This will enable me to gain more insight into my streaming history.
 
 ### Changes to the Project Plan
-I turned in my Project Plan when I only had my Netflix dataset. Since then, I was able to obtain my Hulu and Prime Video datasets.
+I turned in my Project Plan when I only had my Netflix data. Since then, I've able to obtain my Hulu and Prime Video data.
+
+My original idea was to compare my streaming data to the top streaming titles but I wasn't able to find a dataset that worked with my data.
 
 ### Project Challenges
-
+I realized (too late for this project) that Netflix and Prime Video create a new "watch event" every time a stream is paused and played again. This means that my data shows individual titles with   
 
 # Datasets Used
 ### Personal Streaming Viewing History
