@@ -33,13 +33,22 @@ I turned in my Project Plan when I only had my Netflix dataset. Since then, I wa
   3. Create a new folder in the cloned repo called `datasets` and add downloaded datasets *<strong>See note</strong>* 
   4. CD into cloned project folder
   5. Install virtual venv if you don't already have it installed `pip install virtualenv`
-  6. Activate the virtual environment `.\venv\Scripts\activate`
+  6. Activate the virtual environment 
   7. Install the requirements.txt file `pip install -r requirements.txt`
   8. Then run these Juptyer Notebook files: [Hulu](hulu.ipynb), [Imdb](imdb.ipynb), [Netflix](netflix.ipynb), [Prime Video](prime_video.ipynb) BEFORE running the main      project notebook [Streaming Data](streaming_data.ipynb)
 
 *(**Note:** If you downloaded the dataset as a .zip file, make sure to add the individual datasets to the new `datasets` folder and not the folder they were zipped in.)*
+
+### Activating a Virtual Environment
+**On Mac/Linux**
+Open the Terminal and create a virtual environment with the command `python3 -m venv virtual-env`
+activate the virtual environment with the command `source virtual-env/bin/activate`
+
+**On Windows**
+open the Command Prompt and create a virtual environment with the command `python -m venv virtual-env`
+activate the virtual environment with the command `virtual-env\Scripts\activate.bat`
  
-### To deactivate the Virtual Environment
+### Deactivate the Virtual Environment
   Type`deactivate`
 
 ### Python packages used in this project:
