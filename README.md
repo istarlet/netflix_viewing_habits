@@ -4,7 +4,7 @@
 In this notebook, I'll take a look at my streaming viewing history data from Hulu, Netflix, and Prime Video accounts. I will merge these datasets with an additional dataset that contains more information about the streaming titles like run time, genres, and Imdb score. This will enable me to gain more insight into my streaming history.
 
 ### Changes to the Project Plan
-I turned in my Project Plan when I only had my Netflix data. Since then, I've able to obtain my Hulu and Prime Video data.
+I turned in my Project Plan when I only had my Netflix data. Since then, I've been able to obtain my Hulu and Prime Video data.
 
 My original idea was to compare my streaming data to the top streaming titles but I wasn't able to find a dataset that worked with my data.
 
