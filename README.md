@@ -53,7 +53,7 @@ Open the Command Prompt and create a virtual environment with the command `pytho
 Activate the virtual environment with the command `virtual-env\Scripts\activate.bat`
  
 ### Deactivate the Virtual Environment
-  Type`deactivate`
+  Type `deactivate`
 
 ### Python packages used in this project:
 <ul>
